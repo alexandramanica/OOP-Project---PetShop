@@ -1,0 +1,48 @@
+
+-------------------------------------------------
+Nume angajat: Florin Popescu
+ID angajat: 2
+Varsta angajat: 35
+Salariu angjat: 800000
+Mail angajat: florin.pop24
+Telefon angajat: 0767412964
+Angajatul are experienta? Da!
+Numar comisioane angajat: 2
+Comisioanele angajatului sunt: 
+Anagatul a avut comisionul cu numarul 1 in valoare de 0.2
+Anagatul a avut comisionul cu numarul 2 in valoare de 0.1
+Numar functii trecute: 3
+Istoric functii angajat: Vanzator Call center Manager 
+-------------------------------------------------
+-------------------------------------------------
+Nume angajat: Popescu Daniel
+ID angajat: 3
+Varsta angajat: 25
+Salariu angjat: 40000
+Mail angajat: popescu.daniel@gmail.com
+Telefon angajat: 0767412963
+Angajatul are experienta? Nu!
+Numar comisioane angajat: 3
+Comisioanele angajatului sunt: 
+Anagatul a avut comisionul cu numarul 1 in valoare de 0.2
+Anagatul a avut comisionul cu numarul 2 in valoare de 0.1
+Anagatul a avut comisionul cu numarul 3 in valoare de 0.3
+Numar functii trecute: 2
+Istoric functii angajat: vanzator manager 
+-------------------------------------------------
+-------------------------------------------------
+Nume angajat: Popescu Daniel
+ID angajat: 2
+Varsta angajat: 24
+Salariu angjat: 40000
+Mail angajat: popescu.daniel@gmail.com
+Telefon angajat: 0767412963
+Angajatul are experienta? Da!
+Numar comisioane angajat: 3
+Comisioanele angajatului sunt: 
+Anagatul a avut comisionul cu numarul 1 in valoare de 0.2
+Anagatul a avut comisionul cu numarul 2 in valoare de 0.1
+Anagatul a avut comisionul cu numarul 3 in valoare de 0.3
+Numar functii trecute: 2
+Istoric functii angajat: vanzator manager 
+-------------------------------------------------

@@ -1,0 +1,4 @@
+Salariul anagajatului 1 este:40000
+Salariul anagajatului 2 este:40000
+Salariul anagajatului 3 este:800000
+Salariul mediu al unui angajat este293333
